@@ -1,0 +1,71 @@
+body{
+    background-color:rgb(156, 156, 156);
+}
+
+.foto{
+    height: 150px;
+    width: 150px;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    color: azure;
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    color: azure;
+}
+
+.fondoHeader{
+    background-color: rgb(85, 84, 84);
+}
+
+.fondoComun{
+    background-color: rgb(255, 255, 255);
+}
+
+.reset {
+    all: revert;
+}
+.colorTextoBoton{
+    color: rgb(13, 10, 163);
+}
+.colorLeyenda{
+    color: blue;
+    font-weight: bold;
+}
+.negrita{
+    font-weight:bold;
+}
+
+.bordeLateral { 
+    background-color: rgb(255, 255, 255);
+    border-left: 2px solid rgb(0, 0, 0);   
+}
+
+.fondoFooter{
+    background-color: rgb(85, 84, 84);
+}
+
+.fondoFooter i{
+    
+    color: rgb(16, 64, 161);
+}
+
+.fondoFooter hr{   
+    color: rgb(255, 255, 255);
+}
+
+.contenedorbordes{
+    background-color: rgb(242, 247, 244);
+    border-radius: 20px;
+    color: rgb(4, 105, 58);
+}
+
+.contenedorbordes i{
+    color: rgb(255, 255, 255);
+}
+
+
